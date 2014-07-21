@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/a1.jackson/workspace/VR/cardboard/CardboardSample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-95a363f7fadad141ffe290eb5375030e031abdb4.jar"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/a1.jackson/workspace/VR/cardboard/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-3254c9e360f35c45a132d3309f6dd4a74eea7e8e.jar"
+        jar="/home/a1.jackson/workspace/VR/cardboard/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25"/>
+
+</pre-dex-items>
